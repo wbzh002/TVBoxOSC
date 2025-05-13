@@ -1,14 +1,4 @@
-🐼电视公告,#genre#
-
-温馨提醒,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
-接口免费,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-拒绝收费,CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
-如果已收,https://cccimg.com/down.php/a2edaf1d6c0d503f8f7b0b21a3aad670.mp4
-申请退费,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-更新2025-5-9,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-已运行530天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-
-🐼稳定官方,#genre#
+稳定官方,#genre#
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1-rth.m3u8
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
 CCTV1,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv1hd
